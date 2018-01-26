@@ -5,6 +5,6 @@ as well as document the transformation used in the data analisys.</br>
 </br>
 ##Variables</br>
    Variable     | Description</br>
-----------------|--------------
+----------------|-------------- </br>
 activity_labels |  The type of activity performed by the subjects of the experience.</br>
           
